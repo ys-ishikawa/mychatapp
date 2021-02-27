@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:loading/loading.dart';
+// import 'package:loading/loading.dart';
 import 'package:mychatapp/ui.component/LoginPage.dart';
 import 'package:provider/provider.dart';
 
@@ -49,7 +49,7 @@ class _MyChatAppState extends State<MyChatApp> {
   @override
   Widget build(BuildContext context) {
     if (!_initialized) {
-      return Loading();
+      // return Loading();
     }
     if (_error) {}
     
