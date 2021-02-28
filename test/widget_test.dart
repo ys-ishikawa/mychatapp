@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:mychatapp/ui.component/MyChatApp.dart';
+import 'package:mychatapp/ui_component/MyChatApp.dart';
 
 
 void main() {

@@ -2,7 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 // import 'package:loading/loading.dart';
-import 'package:mychatapp/ui.component/LoginPage.dart';
+import 'package:mychatapp/ui_component/LoginPage.dart';
 import 'package:provider/provider.dart';
 
 
